@@ -30,7 +30,7 @@ export const TaskList = () => {
         <BoxCard result='warning'>
             <p className="title">Lorem ipsum dolor sit amet.</p>
             <p className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, asperiores?</p>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p>Lorem ipsum sit amet.</p>
         </BoxCard>
     </>
   )
